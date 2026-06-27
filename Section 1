@@ -1,0 +1,17 @@
+Tools Used - Windows VM – Hosted the FTP server and client
+FileZilla Server – Managed FTP users and authentication
+Wireshark – Captured and analyzed network packets
+Host‑Only / NAT Network – Allowed communication between client and server.
+Objective
+Demonstrate how an FTP server operates inside a Windows VM
+Use Wireshark to capture and analyze network packets
+Observe how FTP traffic behaves at the protocol level
+Show foundational skills in packet sniffing and network monitoring
+Highlight the security weaknesses of plaintext protocols like FTP
+What I learned
+How to configure an FTP server using FileZilla
+How FTP commands and responses appear in packet captures
+How to use Wireshark to filter and inspect network traffic
+How plaintext protocols expose sensitive information
+Why secure alternatives like SFTP/FTPS are recommended
+Fundamentals of packet sniffing and protocol analysis
